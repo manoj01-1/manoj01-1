@@ -1,5 +1,5 @@
 # 💫 About Me:
-im currently a final year ece student<br>im interested in software developements<br>im currently learning MERN stack developement<br>im a good problem solver 
+i'm a final year ece student<br>Much interested in software developements<br>im currently learning MERN stack developement<br>Having Good problem solving skills and Debugging skills<br> Aspiring Software developer 
 
 
 ## 🌐 Socials:
